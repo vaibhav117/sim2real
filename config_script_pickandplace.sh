@@ -1,0 +1,1 @@
+python train.py --project-name xarm_pickandplace_fixed --env-name XarmImagePickandPlace-v1 --experiment-name xarm_pickandplace_sideview_normgoal --total-timesteps 4000000 --batch-size 256 --texture-rand 0 --camera-rand 0 --light-rand 0 --crop-amount 0 --view 230 --cuda

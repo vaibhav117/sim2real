@@ -1,0 +1,31 @@
+name: baselines
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - cudatoolkit=11.3
+  - pytorch
+  - torchvision
+  - absl-py
+  - pyparsing
+  - jupyterlab
+  - scikit-image
+  - mpi4py
+  - pip
+  - pip:
+    - termcolor
+    - pandas
+    - ipdb
+    - tqdm
+    - yapf
+    - mujoco_py==2.0.2.13
+    - sklearn
+    - matplotlib
+    - kornia
+    - MakeTreeDir
+    - gym
+    - numpy
+    - omegaconf
+    - wandb
+    - opencv-python
+    - imageio-ffmpeg

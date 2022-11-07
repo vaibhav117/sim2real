@@ -1,0 +1,1 @@
+python train.py --project-name xarm_reach_fixed --env-name XarmImageReach-v1 --experiment-name xarm_reach_sideview_normgoal --total-timesteps 1000000 --batch-size 256 --texture-rand 0 --camera-rand 0 --light-rand 0 --crop-amount 0 --view 230 --cuda
