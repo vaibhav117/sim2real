@@ -22,5 +22,5 @@ The basic model is inspired by [Asymmetric Actor Critic for Image-Based Robot Le
 # Results
 
 Pick & Place in simulation | Pick & Place on the Real Robot 
------------------------|-----------------------|-----------------------|
+-----------------------|-----------------------|
 ![](figures/sim2real_real_robot_deployment.gif)| ![](figures/sim2real_sim_deploy.gif)
